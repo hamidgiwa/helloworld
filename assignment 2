@@ -1,0 +1,4 @@
+ input("470")
+e, f , g = 4, 7, 0
+h = e*e*e + f*f*f + g*g*g
+print =("h")

@@ -1,4 +1,6 @@
- input("470")
+#q2: Given a number x, determine whether the given number is Armstrong number or not. A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if.
+
+input("470")
 e, f , g = 4, 7, 0
 h = e*e*e + f*f*f + g*g*g
 print =("h")
